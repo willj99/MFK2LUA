@@ -10,4 +10,4 @@ MFK2LUA.EXE path_of_folder_with_mfk_files_here
 It will convert them in a flash, and ask if you'd like to delete the remaining MFK files.
 
 ### Note
-It can be a bit finicky with the *level* scripts the game uses, if it's breaking your gags, manually go into your *level* script and make sure your Gag Positions are encased in quotation marks.
+It can be a bit finicky with the *level* scripts the game uses, if it's breaking your gags, manually go into your *level* script and make sure your Gag Positions  are encased in quotation marks (ie.: Squish should be "Squish" in level.lua).
